@@ -10,7 +10,7 @@ export default function App() {
       <section className="hero">
         <div className="hero-copy">
           <p className="eyebrow">TEXTILE WEB · DEMO PREVIEW</p>
-          <h1>Fabrics that<br/><em>inspire spaces.</em></h1>
+          <h1>GitHub Auto-Deploy Test Successful<br/><em>inspire spaces.</em></h1>
           <p className="intro">A small preview homepage to test the GitHub → Vercel workflow. This is a demo scaffold, not the live website.</p>
           <a className="cta" href="#collections">Explore the demo <span>↗</span></a>
           <p className="note">TEST ENVIRONMENT · NO PRODUCTION CHANGES</p>
